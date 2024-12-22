@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactKeyboard/static/css/main.8df6aaad.css",
-    "main.js": "/ReactKeyboard/static/js/main.cc2038ce.js",
+    "main.js": "/ReactKeyboard/static/js/main.7cfad3e7.js",
     "index.html": "/ReactKeyboard/index.html",
     "main.8df6aaad.css.map": "/ReactKeyboard/static/css/main.8df6aaad.css.map",
-    "main.cc2038ce.js.map": "/ReactKeyboard/static/js/main.cc2038ce.js.map"
+    "main.7cfad3e7.js.map": "/ReactKeyboard/static/js/main.7cfad3e7.js.map"
   },
   "entrypoints": [
     "static/css/main.8df6aaad.css",
-    "static/js/main.cc2038ce.js"
+    "static/js/main.7cfad3e7.js"
   ]
 }
